@@ -1,5 +1,4 @@
 # ToDo_App
-# ToDo_App
 
 ## ToDo App with Firebase Realtime Database
 
